@@ -1,5 +1,5 @@
 # FREON-case
-Printable and sizeable case for a Android phone FREON 
+Printable and sizeable case for a Android phone FREON. This model is sized for the Le Eco le Pro 3 which was used by comma.ai for the Comma2.
 
 The dwg file can be edited with BricsCAD SHAPE downloaded from https://www.bricsys.com/en-za/bricscad-shape
 
